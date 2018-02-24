@@ -1,2 +1,0 @@
-# Botanika
-Botanika Project 
