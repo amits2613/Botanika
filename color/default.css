@@ -1,0 +1,73 @@
+::-moz-selection {
+background:#e06d5e;
+}
+::selection {
+background:#e06d5e;
+}
+
+.navbar .brand a:hover {
+	color:#1AA00A
+}
+
+
+
+ul#menu-main > li > a:hover {
+	color: #1AA00A
+}
+
+
+ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active    {
+	color: #1AA00A
+}
+#header-wrapper h1 span {
+	color:#1AA00A
+}
+
+#header-wrapper input[type=submit] {
+	background: #0F4A08   !important;
+}
+
+#theme-form input[type=submit] {
+	background: #0F4A08   !important;
+}
+
+.btn.btn-theme {
+	background: #26c8aa !important;
+}
+
+/* blog */
+.home-post .post-meta {
+	background: #1AA00A
+}
+
+/* com */
+.tabbable ul.nav-tabs li.active a,.tabbable ul.nav-tabs li a:hover {
+	color: #1AA00A
+}
+.accordion .accordion-heading a.active {
+	color: #1AA00A
+}
+
+#tweet ul li a {
+	color: #1AA00A
+}
+
+
+/* works */
+#filters ul li a:hover h5, #filters ul li a.active h5 {
+	background: #1AA00A
+	border-color: #1AA00A
+}
+
+.portfolio .portfolio-overlay {
+	background: #1AA00A
+}
+
+/* icon */
+i.icon-bgdark:hover {
+	background: #26c8aa;
+}
+
+i.icon-bgdark.active {
+	background: #e06d5e;
+}
